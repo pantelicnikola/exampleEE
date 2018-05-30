@@ -1,0 +1,1266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d8fd079f-3f2b-4121-b463-512d7d88cf94" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_annotations_java5_16_0_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_annotations_java5_16_0_2.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/Logica/Logica.iml" afterPath="$PROJECT_DIR$/Logica/Logica.iml" />
+      <change beforePath="$PROJECT_DIR$/Logica/pom.xml" afterPath="$PROJECT_DIR$/Logica/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/AgevolazioniFiscaliBaseType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/AgevolazioniFiscaliBaseType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/AgevolazioniFiscaliType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/AgevolazioniFiscaliType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/AllegatiType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/AllegatiType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/AllegatoType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/AllegatoType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/AmmissibilitaBaseType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/AmmissibilitaBaseType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/AnagraficaClienteFinaleBaseType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/AnagraficaClienteFinaleBaseType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/AnagraficaClienteFinaleConDenomTelType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/AnagraficaClienteFinaleConDenomTelType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/AnagraficaClienteFinaleConDenomType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/AnagraficaClienteFinaleConDenomType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/AnagraficaClienteFinaleConRagSocType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/AnagraficaClienteFinaleConRagSocType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/AnagraficaClienteFinaleSoloDenomTelType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/AnagraficaClienteFinaleSoloDenomTelType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/AnagraficaClienteFinaleSoloDenomType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/AnagraficaClienteFinaleSoloDenomType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/AnagraficaReferenteClienteFinaleBaseType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/AnagraficaReferenteClienteFinaleBaseType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/AnagraficaReferenteClienteFinaleType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/AnagraficaReferenteClienteFinaleType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/AnnullamentoDatiPraticaBaseType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/AnnullamentoDatiPraticaBaseType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/AnnullamentoDatiPraticaType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/AnnullamentoDatiPraticaType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/AutocertificazioniBaseType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/AutocertificazioniBaseType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/AutoletturaType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/AutoletturaType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/AzioneRichiestaType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/AzioneRichiestaType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/BeneficiarioType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/BeneficiarioType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/CM1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/CM1.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/CM1Impl.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/CM1Service.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/CM1Service.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/ClienteFinaleAnagraficaIndirizziEx1Type.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/ClienteFinaleAnagraficaIndirizziEx1Type.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/ClienteFinaleBaseType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/ClienteFinaleBaseType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/ClienteFinaleCompletoObbType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/ClienteFinaleCompletoObbType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/ClienteFinaleCompletoType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/ClienteFinaleCompletoType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/ClienteFinaleConDenomEIndirizziObbTelType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/ClienteFinaleConDenomEIndirizziObbTelType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/ClienteFinaleConDenomEIndirizziObbType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/ClienteFinaleConDenomEIndirizziObbType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/ClienteFinaleConDenomEIndirizziTelType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/ClienteFinaleConDenomEIndirizziTelType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/ClienteFinaleConDenomEIndirizziType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/ClienteFinaleConDenomEIndirizziType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/ClienteFinaleConDenomIndirizziObbTelTributiType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/ClienteFinaleConDenomIndirizziObbTelTributiType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/ClienteFinaleConDenomIndirizziTelTributiOpzType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/ClienteFinaleConDenomIndirizziTelTributiOpzType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/ClienteFinaleConDenomIndirizziTelTributiType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/ClienteFinaleConDenomIndirizziTelTributiType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/ClienteFinaleConDenomIndirizziTributiType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/ClienteFinaleConDenomIndirizziTributiType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/ClienteFinaleConDenomTelType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/ClienteFinaleConDenomTelType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/ClienteFinaleConDenomType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/ClienteFinaleConDenomType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/ClienteFinaleFornituraType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/ClienteFinaleFornituraType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/ClienteFinaleSoloDenomTelType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/ClienteFinaleSoloDenomTelType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/ClienteFinaleSoloDenomType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/ClienteFinaleSoloDenomType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/ClienteFinaleTributiType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/ClienteFinaleTributiType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/DataRiferimentoCertificazioneType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/DataRiferimentoCertificazioneType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/DatiAnnullamentoPraticaType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/DatiAnnullamentoPraticaType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/DatiAttivazioneBaseType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/DatiAttivazioneBaseType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/DatiAttivazioneBaseUtenteType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/DatiAttivazioneBaseUtenteType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/DatiCommercialiType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/DatiCommercialiType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/DatiFileBaseType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/DatiFileBaseType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/DatiPraticaType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/DatiPraticaType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/DatiResidenzaBaseType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/DatiResidenzaBaseType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/DatiRichiestaBaseType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/DatiRichiestaBaseType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/DatiRisoluzioneContrattualeBaseType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/DatiRisoluzioneContrattualeBaseType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/DatiRisoluzioneContrattualeTipologiaType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/DatiRisoluzioneContrattualeTipologiaType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/DatiTecniciBaseEl.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/DatiTecniciBaseEl.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/DatiTecniciBaseGas.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/DatiTecniciBaseGas.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/DatiTecniciBaseType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/DatiTecniciBaseType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/DatiTecniciMinimaliType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/DatiTecniciMinimaliType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/DatiTipoFileBaseType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/DatiTipoFileBaseType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/DatiTipoFileRespBaseType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/DatiTipoFileRespBaseType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/DatiTrasmissionePortaleBaseType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/DatiTrasmissionePortaleBaseType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/DatiWorkflowType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/DatiWorkflowType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/DefaultEsitoType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/DefaultEsitoType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/EsitoBaseType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/EsitoBaseType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/EsitoFileBaseType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/EsitoFileBaseType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/FileDisponibileType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/FileDisponibileType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/FlussoCM10200Type.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/FlussoCM10200Type.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/FlussoCM10201Type.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/FlussoCM10201Type.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/FlussoTypeAbstract.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/FlussoTypeAbstract.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaDistributoreCPGestoreCPOpzType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaDistributoreCPGestoreCPOpzType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaDistributoreCPGestoreCPType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaDistributoreCPGestoreCPType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaDistributoreCPGestoreType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaDistributoreCPGestoreType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaDistributoreCPOpzGestoreCPOpzType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaDistributoreCPOpzGestoreCPOpzType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaDistributoreCPOpzGestoreCPType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaDistributoreCPOpzGestoreCPType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaDistributoreGestoreBaseType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaDistributoreGestoreBaseType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaDistributoreGestoreCPOpzType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaDistributoreGestoreCPOpzType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaDistributoreGestoreCPType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaDistributoreGestoreCPType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaGestoreCPDistributoreCPOpzType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaGestoreCPDistributoreCPOpzType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaGestoreCPDistributoreCPType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaGestoreCPDistributoreCPType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaGestoreCPDistributoreType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaGestoreCPDistributoreType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaGestoreCPOpzDistributoreCPOpzType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaGestoreCPOpzDistributoreCPOpzType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaGestoreCPOpzDistributoreCPType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaGestoreCPOpzDistributoreCPType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaGestoreCPOpzUtenteCPOpzType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaGestoreCPOpzUtenteCPOpzType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaGestoreCPOpzUtenteCPType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaGestoreCPOpzUtenteCPType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaGestoreCPOpzVenditoreCPOpzType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaGestoreCPOpzVenditoreCPOpzType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaGestoreCPOpzVenditoreCPType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaGestoreCPOpzVenditoreCPType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaGestoreCPUtenteCPOpzType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaGestoreCPUtenteCPOpzType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaGestoreCPUtenteCPType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaGestoreCPUtenteCPType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaGestoreCPUtenteType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaGestoreCPUtenteType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaGestoreCPVenditoreCPOpzType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaGestoreCPVenditoreCPOpzType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaGestoreCPVenditoreCPType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaGestoreCPVenditoreCPType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaGestoreCPVenditoreType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaGestoreCPVenditoreType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaGestoreDistributoreBaseType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaGestoreDistributoreBaseType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaGestoreDistributoreCPType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaGestoreDistributoreCPType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaGestoreUtenteBaseType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaGestoreUtenteBaseType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaGestoreUtenteCPType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaGestoreUtenteCPType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaGestoreVenditoreBaseType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaGestoreVenditoreBaseType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaGestoreVenditoreCPType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaGestoreVenditoreCPType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaRespBilGestoreBaseType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaRespBilGestoreBaseType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaRespBilGestoreCPBaseType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaRespBilGestoreCPBaseType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaUtenteCPGestoreCPOpzType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaUtenteCPGestoreCPOpzType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaUtenteCPGestoreCPType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaUtenteCPGestoreCPType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaUtenteCPGestoreType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaUtenteCPGestoreType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaUtenteCPOpzGestoreCPOpzType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaUtenteCPOpzGestoreCPOpzType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaUtenteCPOpzGestoreCPType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaUtenteCPOpzGestoreCPType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaUtenteGestoreBaseType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaUtenteGestoreBaseType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaUtenteGestoreCPType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaUtenteGestoreCPType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaVenditoreCPGestoreCPOpzType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaVenditoreCPGestoreCPOpzType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaVenditoreCPGestoreCPType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaVenditoreCPGestoreCPType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaVenditoreCPGestoreType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaVenditoreCPGestoreType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaVenditoreCPOpzGestoreCPOpzType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaVenditoreCPOpzGestoreCPOpzType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaVenditoreCPOpzGestoreCPType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaVenditoreCPOpzGestoreCPType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaVenditoreGestoreBaseType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaVenditoreGestoreBaseType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaVenditoreGestoreCPType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaVenditoreGestoreCPType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IndirizzoType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IndirizzoType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/InformazioneTributiType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/InformazioneTributiType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/InformazioniFuiType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/InformazioniFuiType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IvaImposteType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IvaImposteType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/MercatoEnumType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/MercatoEnumType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/MessaggioSIIFaultBodyType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/MessaggioSIIFaultBodyType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/MessaggioSIIFaultType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/MessaggioSIIFaultType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/MessaggioSIIType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/MessaggioSIIType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/NotificaAperturaPraticaCertificazione2GDDAzioneRichiestaType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/NotificaAperturaPraticaCertificazione2GDDAzioneRichiestaType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/NotificaAperturaPraticaCertificazione2GDDDatiSIIType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/NotificaAperturaPraticaCertificazione2GDDDatiSIIType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/NotificaAperturaPraticaCertificazione2GDDMessaggioSIIType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/NotificaAperturaPraticaCertificazione2GDDMessaggioSIIType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/NotificaAperturaPraticaCertificazione2GDDRichiestaSIIType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/NotificaAperturaPraticaCertificazione2GDDRichiestaSIIType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/NotificaCertificazioneFlussiMisure2GDDAzioneRichiestaType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/NotificaCertificazioneFlussiMisure2GDDAzioneRichiestaType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/NotificaCertificazioneFlussiMisure2GDDDatiSIIType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/NotificaCertificazioneFlussiMisure2GDDDatiSIIType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/NotificaCertificazioneFlussiMisure2GDDMessaggioSIIType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/NotificaCertificazioneFlussiMisure2GDDMessaggioSIIType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/NotificaCertificazioneFlussiMisure2GDDRichiestaSIIType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/NotificaCertificazioneFlussiMisure2GDDRichiestaSIIType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/ObjectFactory.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/ObjectFactory.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/ReferenteClienteFinaleBaseType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/ReferenteClienteFinaleBaseType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/RichiestaSIIType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/RichiestaSIIType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/SettoreType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/SettoreType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/TipoVariazioneAddDelType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/TipoVariazioneAddDelType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/TipoVariazioneNCType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/TipoVariazioneNCType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/TipologiaRisoluzioneEnumType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/TipologiaRisoluzioneEnumType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/package-info.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/package-info.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/Logica-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/Logica/target/Logica-1.0-SNAPSHOT.jar" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/AgevolazioniFiscaliBaseType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/AgevolazioniFiscaliType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/AllegatiType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/AllegatoType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/AmmissibilitaBaseType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/AnagraficaClienteFinaleBaseType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/AnagraficaClienteFinaleConDenomTelType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/AnagraficaClienteFinaleConDenomType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/AnagraficaClienteFinaleConRagSocType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/AnagraficaClienteFinaleSoloDenomTelType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/AnagraficaClienteFinaleSoloDenomType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/AnagraficaReferenteClienteFinaleBaseType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/AnagraficaReferenteClienteFinaleType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/AnnullamentoDatiPraticaBaseType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/AnnullamentoDatiPraticaType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/AutocertificazioniBaseType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/AutoletturaType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/AzioneRichiestaType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/BeneficiarioType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/CM1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/CM1Impl.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/CM1Service.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/ClienteFinaleAnagraficaIndirizziEx1Type.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/ClienteFinaleBaseType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/ClienteFinaleCompletoObbType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/ClienteFinaleCompletoType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/ClienteFinaleConDenomEIndirizziObbTelType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/ClienteFinaleConDenomEIndirizziObbType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/ClienteFinaleConDenomEIndirizziTelType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/ClienteFinaleConDenomEIndirizziType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/ClienteFinaleConDenomIndirizziObbTelTributiType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/ClienteFinaleConDenomIndirizziTelTributiOpzType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/ClienteFinaleConDenomIndirizziTelTributiType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/ClienteFinaleConDenomIndirizziTributiType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/ClienteFinaleConDenomTelType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/ClienteFinaleConDenomType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/ClienteFinaleFornituraType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/ClienteFinaleSoloDenomTelType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/ClienteFinaleSoloDenomType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/ClienteFinaleTributiType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/DataRiferimentoCertificazioneType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/DatiAnnullamentoPraticaType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/DatiAttivazioneBaseType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/DatiAttivazioneBaseUtenteType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/DatiCommercialiType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/DatiFileBaseType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/DatiPraticaType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/DatiResidenzaBaseType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/DatiRichiestaBaseType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/DatiRisoluzioneContrattualeBaseType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/DatiRisoluzioneContrattualeTipologiaType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/DatiTecniciBaseEl.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/DatiTecniciBaseGas.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/DatiTecniciBaseType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/DatiTecniciMinimaliType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/DatiTipoFileBaseType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/DatiTipoFileRespBaseType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/DatiTrasmissionePortaleBaseType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/DatiWorkflowType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/DefaultEsitoType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/EsitoBaseType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/EsitoFileBaseType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/FileDisponibileType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/FlussoCM10200Type.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/FlussoCM10201Type.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/FlussoTypeAbstract.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IdentificativiRichiestaDistributoreCPGestoreCPOpzType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IdentificativiRichiestaDistributoreCPGestoreCPType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IdentificativiRichiestaDistributoreCPGestoreType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IdentificativiRichiestaDistributoreCPOpzGestoreCPOpzType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IdentificativiRichiestaDistributoreCPOpzGestoreCPType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IdentificativiRichiestaDistributoreGestoreBaseType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IdentificativiRichiestaDistributoreGestoreCPOpzType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IdentificativiRichiestaDistributoreGestoreCPType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IdentificativiRichiestaGestoreCPDistributoreCPOpzType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IdentificativiRichiestaGestoreCPDistributoreCPType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IdentificativiRichiestaGestoreCPDistributoreType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IdentificativiRichiestaGestoreCPOpzDistributoreCPOpzType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IdentificativiRichiestaGestoreCPOpzDistributoreCPType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IdentificativiRichiestaGestoreCPOpzUtenteCPOpzType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IdentificativiRichiestaGestoreCPOpzUtenteCPType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IdentificativiRichiestaGestoreCPOpzVenditoreCPOpzType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IdentificativiRichiestaGestoreCPOpzVenditoreCPType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IdentificativiRichiestaGestoreCPUtenteCPOpzType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IdentificativiRichiestaGestoreCPUtenteCPType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IdentificativiRichiestaGestoreCPUtenteType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IdentificativiRichiestaGestoreCPVenditoreCPOpzType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IdentificativiRichiestaGestoreCPVenditoreCPType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IdentificativiRichiestaGestoreCPVenditoreType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IdentificativiRichiestaGestoreDistributoreBaseType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IdentificativiRichiestaGestoreDistributoreCPType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IdentificativiRichiestaGestoreUtenteBaseType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IdentificativiRichiestaGestoreUtenteCPType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IdentificativiRichiestaGestoreVenditoreBaseType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IdentificativiRichiestaGestoreVenditoreCPType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IdentificativiRichiestaRespBilGestoreBaseType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IdentificativiRichiestaRespBilGestoreCPBaseType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IdentificativiRichiestaUtenteCPGestoreCPOpzType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IdentificativiRichiestaUtenteCPGestoreCPType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IdentificativiRichiestaUtenteCPGestoreType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IdentificativiRichiestaUtenteCPOpzGestoreCPOpzType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IdentificativiRichiestaUtenteCPOpzGestoreCPType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IdentificativiRichiestaUtenteGestoreBaseType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IdentificativiRichiestaUtenteGestoreCPType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IdentificativiRichiestaVenditoreCPGestoreCPOpzType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IdentificativiRichiestaVenditoreCPGestoreCPType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IdentificativiRichiestaVenditoreCPGestoreType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IdentificativiRichiestaVenditoreCPOpzGestoreCPOpzType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IdentificativiRichiestaVenditoreCPOpzGestoreCPType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IdentificativiRichiestaVenditoreGestoreBaseType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IdentificativiRichiestaVenditoreGestoreCPType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IndirizzoType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/InformazioneTributiType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/InformazioniFuiType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IvaImposteType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/MercatoEnumType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/MessaggioSIIFaultBodyType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/MessaggioSIIFaultType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/MessaggioSIIType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/NotificaAperturaPraticaCertificazione2GDDAzioneRichiestaType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/NotificaAperturaPraticaCertificazione2GDDDatiSIIType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/NotificaAperturaPraticaCertificazione2GDDMessaggioSIIType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/NotificaAperturaPraticaCertificazione2GDDRichiestaSIIType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/NotificaCertificazioneFlussiMisure2GDDAzioneRichiestaType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/NotificaCertificazioneFlussiMisure2GDDDatiSIIType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/NotificaCertificazioneFlussiMisure2GDDMessaggioSIIType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/NotificaCertificazioneFlussiMisure2GDDRichiestaSIIType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/ObjectFactory.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/ReferenteClienteFinaleBaseType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/RichiestaSIIType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/SettoreType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/TipoVariazioneAddDelType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/TipoVariazioneNCType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/TipologiaRisoluzioneEnumType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/package-info.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/Logica/target/maven-archiver/pom.properties" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/Logica/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
+      <change beforePath="$PROJECT_DIR$/Logica/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/Logica/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change beforePath="$PROJECT_DIR$/WebApi/WebApi.iml" afterPath="$PROJECT_DIR$/WebApi/WebApi.iml" />
+      <change beforePath="$PROJECT_DIR$/WebApi/src/main/webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/WebApi/src/main/webapp/WEB-INF/web.xml" />
+      <change beforePath="$PROJECT_DIR$/WebApi/src/main/webapp/schemas/CM1.xsd" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/WebApi/src/main/webapp/schemas/CM1_msgSII.xsd" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/WebApi/src/main/webapp/schemas/CM3.xsd" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/WebApi/src/main/webapp/schemas/CM3_msgSII.xsd" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/WebApi/src/main/webapp/schemas/SII_PdC-MessaggioSII.xsd" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/WebApi/src/main/webapp/schemas/SchemaEsterno-SwaRef.xsd" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/WebApi/src/main/webapp/schemas/StruttureEl_v1_4.xsd" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/WebApi/src/main/webapp/schemas/StruttureGenerali_v1_6.xsd" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/WebApi/src/main/webapp/wsdl/CM1.wsdl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/WebApi/src/main/webapp/wsdl/CM3.wsdl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/WebApi/target/WebApi.war" afterPath="$PROJECT_DIR$/WebApi/target/WebApi.war" />
+      <change beforePath="$PROJECT_DIR$/WebApi/target/WebApi/WEB-INF/lib/Logica-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/WebApi/target/WebApi/WEB-INF/lib/Logica-1.0-SNAPSHOT.jar" />
+      <change beforePath="$PROJECT_DIR$/WebApi/target/WebApi/WEB-INF/lib/annotations-java5-16.0.1.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/WebApi/target/WebApi/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/WebApi/target/WebApi/WEB-INF/web.xml" />
+      <change beforePath="$PROJECT_DIR$/WebApi/target/WebApi/schemas/CM1.xsd" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/WebApi/target/WebApi/schemas/CM1_msgSII.xsd" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/WebApi/target/WebApi/schemas/CM3.xsd" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/WebApi/target/WebApi/schemas/CM3_msgSII.xsd" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/WebApi/target/WebApi/schemas/SII_PdC-MessaggioSII.xsd" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/WebApi/target/WebApi/schemas/SchemaEsterno-SwaRef.xsd" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/WebApi/target/WebApi/schemas/StruttureEl_v1_4.xsd" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/WebApi/target/WebApi/schemas/StruttureGenerali_v1_6.xsd" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/WebApi/target/WebApi/wsdl/CM1.wsdl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/WebApi/target/WebApi/wsdl/CM3.wsdl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/WebApi/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/WebApi/target/maven-archiver/pom.properties" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/BussinessLogic/target/" />
+    <ignored path="$PROJECT_DIR$/WebApi/target/" />
+    <ignored path="$PROJECT_DIR$/logic/target/" />
+    <ignored path="$PROJECT_DIR$/BussinessLogica/target/" />
+    <ignored path="$PROJECT_DIR$/Logica/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Logica/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="web.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/WebApi/src/main/webapp/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="483">
+              <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>index</find>
+      <find>in</find>
+      <find>accoun</find>
+      <find>.accoun</find>
+      <find>\&quot;DATE\&quot;</find>
+      <find>transfer_time</find>
+      <find>\&quot;</find>
+      <find>\&quot;DATE</find>
+      <find>date</find>
+      <find>select</find>
+      <find>cm1</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/BussinessLogic/src/main/java/repos/UtilRepository.java" />
+        <option value="$PROJECT_DIR$/BussinessLogica/pom.xml" />
+        <option value="$PROJECT_DIR$/BussinessLogica/src/main/java/controllers/MyController.java" />
+        <option value="$PROJECT_DIR$/BussinessLogic/pom.xml" />
+        <option value="$PROJECT_DIR$/BussinessLogic/src/main/java/repos/MyRepository.java" />
+        <option value="$PROJECT_DIR$/BussinessLogic/src/main/java/controllers/MyController.java" />
+        <option value="$PROJECT_DIR$/Logica/src/main/java/repos/MyRepository.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/WebApi/pom.xml" />
+        <option value="$PROJECT_DIR$/WebApi/src/main/webapp/WEB-INF/jboss-web.xml" />
+        <option value="$PROJECT_DIR$/WebApi/src/main/webapp/second.jsp" />
+        <option value="$PROJECT_DIR$/WebApi/src/main/webapp/index.jsp" />
+        <option value="$PROJECT_DIR$/Logica/src/main/java/connections/HBaseConnection.java" />
+        <option value="$PROJECT_DIR$/Logica/src/main/java/DTOs/TransactionInfoReturnPOJO.java" />
+        <option value="$PROJECT_DIR$/Logica/src/main/java/DTOs/TransferPOJO.java" />
+        <option value="$PROJECT_DIR$/Logica/src/main/java/DTOs/TransactionInfoPOJO.java" />
+        <option value="$PROJECT_DIR$/Logica/src/main/java/connections/PostgresConnection.java" />
+        <option value="$PROJECT_DIR$/Logica/src/main/java/services/UtilService.java" />
+        <option value="$PROJECT_DIR$/Logica/src/main/java/controllers/MyController.java" />
+        <option value="$PROJECT_DIR$/Logica/src/main/java/POJOs/TransferPOJO.java" />
+        <option value="$PROJECT_DIR$/Logica/src/main/java/POJOs/AccountPOJO.java" />
+        <option value="$PROJECT_DIR$/Logica/src/main/java/services/MyService.java" />
+        <option value="$PROJECT_DIR$/Logica/src/main/java/POJOs/AccountBuilder.java" />
+        <option value="$PROJECT_DIR$/Logica/src/main/java/POJOs/builders/AccountBuilder.java" />
+        <option value="$PROJECT_DIR$/Logica/src/main/java/POJOs/builders/TransferBuilder.java" />
+        <option value="$PROJECT_DIR$/Logica/src/main/java/POJOs/builders/TransferPOJOBuilder.java" />
+        <option value="$PROJECT_DIR$/WebApi/src/main/webapp/soap/it/acquirenteunico/sii/cm1/CM1Imp.java" />
+        <option value="$PROJECT_DIR$/WebApi/src/main/webapp/soap/it/acquirenteunico/sii/cm1/CM1Impl.java" />
+        <option value="$PROJECT_DIR$/Logica/src/main/java/soap/it/acquirenteunico/sii/cm1/CM1Impl.java" />
+        <option value="$PROJECT_DIR$/Logica/src/main/java/soap/it/acquirenteunico/schemas/sii_au/strutturegenerali/v1/FlussoTypeAbstract.java" />
+        <option value="$PROJECT_DIR$/Logica/src/main/java/soap/CM1Impl.java" />
+        <option value="$PROJECT_DIR$/Logica/pom.xml" />
+        <option value="$PROJECT_DIR$/WebApi/src/main/webapp/WEB-INF/web.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="threads" value="1C" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="WebApi Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="WebApi Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.7" />
+    <option name="vmOptions" value="-XX:MaxPermSize=128M -XX:+TieredCompilation -XX:TieredStopAtLevel=1" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1060" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ExampleEE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ExampleEE" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ExampleEE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ExampleEE" type="462c0819:PsiDirectoryNode" />
+              <item name="Logica" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ExampleEE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ExampleEE" type="462c0819:PsiDirectoryNode" />
+              <item name="Logica" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ExampleEE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ExampleEE" type="462c0819:PsiDirectoryNode" />
+              <item name="Logica" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ExampleEE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ExampleEE" type="462c0819:PsiDirectoryNode" />
+              <item name="Logica" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ExampleEE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ExampleEE" type="462c0819:PsiDirectoryNode" />
+              <item name="WebApi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ExampleEE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ExampleEE" type="462c0819:PsiDirectoryNode" />
+              <item name="WebApi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ExampleEE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ExampleEE" type="462c0819:PsiDirectoryNode" />
+              <item name="WebApi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ExampleEE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ExampleEE" type="462c0819:PsiDirectoryNode" />
+              <item name="WebApi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ExampleEE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ExampleEE" type="462c0819:PsiDirectoryNode" />
+              <item name="WebApi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../generator_jole" />
+    <property name="extract.method.default.visibility" value="private" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateBuilderDialog.RecentsKey">
+      <recent name="POJOs.builders" />
+      <recent name="POJOs" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="connections" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Nikola Pantelic\Desktop\ExampleEE\Logica\src\main\java" />
+      <recent name="C:\Users\Nikola Pantelic\Desktop\ExampleEE\WebApi\src\main\webapp" />
+      <recent name="C:\Users\Nikola Pantelic\Desktop\ExampleEE\Logica\src\main" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="Generate War" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="install" />
+              </list>
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method>
+        <option name="LaunchBrowser.Before.Run" url="http://localhost:9990/console/App.html#standalone-deployments" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d8fd079f-3f2b-4121-b463-512d7d88cf94" name="Default" comment="" />
+      <created>1522242443848</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1522242443848</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1060" extended-state="7" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33295837" sideWeight="0.5021482" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296875" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295838" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33295837" sideWeight="0.49785176" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35095614" sideWeight="0.49785176" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2669173" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295838" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293348" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/WebApi/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="47" lean-forward="false" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logica/src/main/java/services/MyService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2331">
+          <caret line="117" column="31" lean-forward="false" selection-start-line="117" selection-start-column="31" selection-end-line="117" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebApi/src/main/webapp/WEB-INF/jboss-web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="12" lean-forward="false" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebApi/src/main/webapp/second.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebApi/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="21" column="82" lean-forward="false" selection-start-line="21" selection-start-column="61" selection-end-line="21" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logica/src/main/java/controllers/MyController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2331">
+          <caret line="111" column="30" lean-forward="false" selection-start-line="111" selection-start-column="30" selection-end-line="111" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logica/src/main/java/POJOs/DTOs/TransferOperationDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebApi/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="37" lean-forward="true" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebApi/target/WebApi/WEB-INF/web.xml" />
+    <entry file="file://$PROJECT_DIR$/WebApi/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="47" lean-forward="false" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logica/src/main/java/services/MyService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2457">
+          <caret line="117" column="31" lean-forward="true" selection-start-line="117" selection-start-column="31" selection-end-line="117" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BussinessLogic/BussinessLogic.iml" />
+    <entry file="file://$PROJECT_DIR$/BussinessLogic/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/BussinessLogic/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/WebApi/target/maven-archiver/pom.properties" />
+    <entry file="file://$PROJECT_DIR$/WebApi/WebApi.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="45" column="104" lean-forward="false" selection-start-line="45" selection-start-column="104" selection-end-line="45" selection-end-column="104" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebApi/target/WebApi/WEB-INF/web.xml" />
+    <entry file="file://$PROJECT_DIR$/WebApi/src/main/webapp/second.html" />
+    <entry file="file://$PROJECT_DIR$/WebApi/src/main/webapp/second.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebApi/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="47" lean-forward="false" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logica/src/main/java/connections/HBaseConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="19" column="32" lean-forward="false" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebApi/src/main/webapp/WEB-INF/jboss-web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="12" lean-forward="false" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logica/src/main/java/POJOs/DTOs/TransactionInfoDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="29" column="35" lean-forward="false" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logica/src/main/java/connections/PostgresConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="474">
+          <caret line="38" column="23" lean-forward="false" selection-start-line="38" selection-start-column="23" selection-end-line="38" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logica/src/main/java/POJOs/DTOs/TransactionInfoReturnDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="579">
+          <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logica/src/main/java/services/UtilService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="789">
+          <caret line="59" column="9" lean-forward="false" selection-start-line="59" selection-start-column="9" selection-end-line="59" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logica/src/main/java/DTOs/MyPojo.java" />
+    <entry file="file://$PROJECT_DIR$/Logica/src/main/java/POJOs/DTOs/TransferOperationDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="39" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logica/src/main/java/POJOs/DTOs/AccountInfoDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logica/src/main/java/services/MyService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="789">
+          <caret line="282" column="32" lean-forward="false" selection-start-line="282" selection-start-column="32" selection-end-line="282" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logica/src/main/java/POJOs/AccountPOJO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logica/src/main/java/POJOs/builders/TransferBuilder.java" />
+    <entry file="file://$PROJECT_DIR$/Logica/src/main/java/POJOs/builders/AccountBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logica/src/main/java/POJOs/builders/TransferPOJOBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="6" column="39" lean-forward="false" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logica/src/main/java/POJOs/TransferPOJO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebApi/src/main/webapp/wsdl/CM1.wsdl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="29" lean-forward="false" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebApi/src/main/webapp/wsdl/CM3.wsdl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logica/src/main/java/soap/it/acquirenteunico/sii/cm1/CM1Service.class" />
+    <entry file="file://$PROJECT_DIR$/Logica/src/main/java/soap/it/acquirenteunico/sii/cm1/CM1.class" />
+    <entry file="file://$PROJECT_DIR$/Logica/src/main/java/soap/it/acquirenteunico/sii/cm1/CM1.java" />
+    <entry file="file://$PROJECT_DIR$/Logica/src/main/java/soap/it/acquirenteunico/sii/cm1/CM1Impl.java" />
+    <entry file="file://$PROJECT_DIR$/WebApi/src/main/webapp/soap/it/acquirenteunico/sii/cm1/CM1Impl.kt" />
+    <entry file="file://$PROJECT_DIR$/Logica/src/main/java/soap/it/acquirenteunico/schemas/sii_au/strutturegenerali/v1/FlussoTypeAbstract.java" />
+    <entry file="file://$PROJECT_DIR$/Logica/src/main/java/soap/it/acquirenteunico/sii/cm1/CM1Impl.java" />
+    <entry file="file://$PROJECT_DIR$/WebApi/src/main/webapp/schemas/CM1.xsd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
+          <caret line="44" column="4" lean-forward="false" selection-start-line="44" selection-start-column="4" selection-end-line="44" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logica/src/main/java/soap/CM1Impl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="31" lean-forward="false" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logica/src/main/java/controllers/MyController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="31" lean-forward="true" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebApi/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="14" column="37" lean-forward="false" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logica/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebApi/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ExampleEE</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.h2database:h2:1.4.197</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="$PROJECT_DIR$" />
+    <option value="clean install" />
+  </component>
+</project>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="BussinessLogica" />
+        <module name="logic" />
+        <module name="Logica" />
+        <module name="WebApi" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="BussinessLogic" target="1.5" />
+      <module name="BussinessLogica" target="1.5" />
+      <module name="ExampleEE" target="1.5" />
+      <module name="logic" target="1.5" />
+      <module name="Logica" target="1.5" />
+      <module name="WebApi" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
