@@ -2,445 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8fd079f-3f2b-4121-b463-512d7d88cf94" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_annotations_java5_16_0_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_annotations_java5_16_0_2.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Logica/Logica.iml" afterPath="$PROJECT_DIR$/Logica/Logica.iml" />
-      <change beforePath="$PROJECT_DIR$/Logica/pom.xml" afterPath="$PROJECT_DIR$/Logica/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/AgevolazioniFiscaliBaseType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/AgevolazioniFiscaliBaseType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/AgevolazioniFiscaliType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/AgevolazioniFiscaliType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/AllegatiType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/AllegatiType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/AllegatoType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/AllegatoType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/AmmissibilitaBaseType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/AmmissibilitaBaseType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/AnagraficaClienteFinaleBaseType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/AnagraficaClienteFinaleBaseType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/AnagraficaClienteFinaleConDenomTelType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/AnagraficaClienteFinaleConDenomTelType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/AnagraficaClienteFinaleConDenomType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/AnagraficaClienteFinaleConDenomType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/AnagraficaClienteFinaleConRagSocType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/AnagraficaClienteFinaleConRagSocType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/AnagraficaClienteFinaleSoloDenomTelType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/AnagraficaClienteFinaleSoloDenomTelType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/AnagraficaClienteFinaleSoloDenomType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/AnagraficaClienteFinaleSoloDenomType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/AnagraficaReferenteClienteFinaleBaseType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/AnagraficaReferenteClienteFinaleBaseType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/AnagraficaReferenteClienteFinaleType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/AnagraficaReferenteClienteFinaleType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/AnnullamentoDatiPraticaBaseType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/AnnullamentoDatiPraticaBaseType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/AnnullamentoDatiPraticaType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/AnnullamentoDatiPraticaType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/AutocertificazioniBaseType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/AutocertificazioniBaseType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/AutoletturaType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/AutoletturaType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/AzioneRichiestaType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/AzioneRichiestaType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/BeneficiarioType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/BeneficiarioType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/CM1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/CM1.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/CM1Impl.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/CM1Service.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/CM1Service.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/ClienteFinaleAnagraficaIndirizziEx1Type.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/ClienteFinaleAnagraficaIndirizziEx1Type.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/ClienteFinaleBaseType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/ClienteFinaleBaseType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/ClienteFinaleCompletoObbType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/ClienteFinaleCompletoObbType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/ClienteFinaleCompletoType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/ClienteFinaleCompletoType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/ClienteFinaleConDenomEIndirizziObbTelType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/ClienteFinaleConDenomEIndirizziObbTelType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/ClienteFinaleConDenomEIndirizziObbType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/ClienteFinaleConDenomEIndirizziObbType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/ClienteFinaleConDenomEIndirizziTelType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/ClienteFinaleConDenomEIndirizziTelType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/ClienteFinaleConDenomEIndirizziType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/ClienteFinaleConDenomEIndirizziType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/ClienteFinaleConDenomIndirizziObbTelTributiType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/ClienteFinaleConDenomIndirizziObbTelTributiType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/ClienteFinaleConDenomIndirizziTelTributiOpzType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/ClienteFinaleConDenomIndirizziTelTributiOpzType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/ClienteFinaleConDenomIndirizziTelTributiType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/ClienteFinaleConDenomIndirizziTelTributiType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/ClienteFinaleConDenomIndirizziTributiType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/ClienteFinaleConDenomIndirizziTributiType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/ClienteFinaleConDenomTelType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/ClienteFinaleConDenomTelType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/ClienteFinaleConDenomType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/ClienteFinaleConDenomType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/ClienteFinaleFornituraType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/ClienteFinaleFornituraType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/ClienteFinaleSoloDenomTelType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/ClienteFinaleSoloDenomTelType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/ClienteFinaleSoloDenomType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/ClienteFinaleSoloDenomType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/ClienteFinaleTributiType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/ClienteFinaleTributiType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/DataRiferimentoCertificazioneType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/DataRiferimentoCertificazioneType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/DatiAnnullamentoPraticaType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/DatiAnnullamentoPraticaType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/DatiAttivazioneBaseType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/DatiAttivazioneBaseType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/DatiAttivazioneBaseUtenteType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/DatiAttivazioneBaseUtenteType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/DatiCommercialiType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/DatiCommercialiType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/DatiFileBaseType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/DatiFileBaseType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/DatiPraticaType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/DatiPraticaType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/DatiResidenzaBaseType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/DatiResidenzaBaseType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/DatiRichiestaBaseType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/DatiRichiestaBaseType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/DatiRisoluzioneContrattualeBaseType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/DatiRisoluzioneContrattualeBaseType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/DatiRisoluzioneContrattualeTipologiaType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/DatiRisoluzioneContrattualeTipologiaType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/DatiTecniciBaseEl.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/DatiTecniciBaseEl.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/DatiTecniciBaseGas.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/DatiTecniciBaseGas.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/DatiTecniciBaseType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/DatiTecniciBaseType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/DatiTecniciMinimaliType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/DatiTecniciMinimaliType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/DatiTipoFileBaseType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/DatiTipoFileBaseType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/DatiTipoFileRespBaseType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/DatiTipoFileRespBaseType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/DatiTrasmissionePortaleBaseType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/DatiTrasmissionePortaleBaseType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/DatiWorkflowType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/DatiWorkflowType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/DefaultEsitoType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/DefaultEsitoType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/EsitoBaseType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/EsitoBaseType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/EsitoFileBaseType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/EsitoFileBaseType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/FileDisponibileType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/FileDisponibileType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/FlussoCM10200Type.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/FlussoCM10200Type.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/FlussoCM10201Type.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/FlussoCM10201Type.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/FlussoTypeAbstract.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/FlussoTypeAbstract.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaDistributoreCPGestoreCPOpzType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaDistributoreCPGestoreCPOpzType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaDistributoreCPGestoreCPType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaDistributoreCPGestoreCPType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaDistributoreCPGestoreType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaDistributoreCPGestoreType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaDistributoreCPOpzGestoreCPOpzType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaDistributoreCPOpzGestoreCPOpzType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaDistributoreCPOpzGestoreCPType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaDistributoreCPOpzGestoreCPType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaDistributoreGestoreBaseType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaDistributoreGestoreBaseType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaDistributoreGestoreCPOpzType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaDistributoreGestoreCPOpzType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaDistributoreGestoreCPType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaDistributoreGestoreCPType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaGestoreCPDistributoreCPOpzType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaGestoreCPDistributoreCPOpzType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaGestoreCPDistributoreCPType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaGestoreCPDistributoreCPType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaGestoreCPDistributoreType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaGestoreCPDistributoreType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaGestoreCPOpzDistributoreCPOpzType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaGestoreCPOpzDistributoreCPOpzType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaGestoreCPOpzDistributoreCPType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaGestoreCPOpzDistributoreCPType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaGestoreCPOpzUtenteCPOpzType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaGestoreCPOpzUtenteCPOpzType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaGestoreCPOpzUtenteCPType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaGestoreCPOpzUtenteCPType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaGestoreCPOpzVenditoreCPOpzType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaGestoreCPOpzVenditoreCPOpzType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaGestoreCPOpzVenditoreCPType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaGestoreCPOpzVenditoreCPType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaGestoreCPUtenteCPOpzType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaGestoreCPUtenteCPOpzType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaGestoreCPUtenteCPType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaGestoreCPUtenteCPType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaGestoreCPUtenteType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaGestoreCPUtenteType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaGestoreCPVenditoreCPOpzType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaGestoreCPVenditoreCPOpzType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaGestoreCPVenditoreCPType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaGestoreCPVenditoreCPType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaGestoreCPVenditoreType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaGestoreCPVenditoreType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaGestoreDistributoreBaseType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaGestoreDistributoreBaseType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaGestoreDistributoreCPType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaGestoreDistributoreCPType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaGestoreUtenteBaseType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaGestoreUtenteBaseType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaGestoreUtenteCPType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaGestoreUtenteCPType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaGestoreVenditoreBaseType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaGestoreVenditoreBaseType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaGestoreVenditoreCPType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaGestoreVenditoreCPType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaRespBilGestoreBaseType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaRespBilGestoreBaseType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaRespBilGestoreCPBaseType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaRespBilGestoreCPBaseType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaUtenteCPGestoreCPOpzType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaUtenteCPGestoreCPOpzType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaUtenteCPGestoreCPType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaUtenteCPGestoreCPType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaUtenteCPGestoreType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaUtenteCPGestoreType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaUtenteCPOpzGestoreCPOpzType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaUtenteCPOpzGestoreCPOpzType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaUtenteCPOpzGestoreCPType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaUtenteCPOpzGestoreCPType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaUtenteGestoreBaseType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaUtenteGestoreBaseType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaUtenteGestoreCPType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaUtenteGestoreCPType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaVenditoreCPGestoreCPOpzType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaVenditoreCPGestoreCPOpzType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaVenditoreCPGestoreCPType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaVenditoreCPGestoreCPType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaVenditoreCPGestoreType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaVenditoreCPGestoreType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaVenditoreCPOpzGestoreCPOpzType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaVenditoreCPOpzGestoreCPOpzType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaVenditoreCPOpzGestoreCPType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaVenditoreCPOpzGestoreCPType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaVenditoreGestoreBaseType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaVenditoreGestoreBaseType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaVenditoreGestoreCPType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IdentificativiRichiestaVenditoreGestoreCPType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IndirizzoType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IndirizzoType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/InformazioneTributiType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/InformazioneTributiType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/InformazioniFuiType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/InformazioniFuiType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IvaImposteType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/IvaImposteType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/MercatoEnumType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/MercatoEnumType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/MessaggioSIIFaultBodyType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/MessaggioSIIFaultBodyType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/MessaggioSIIFaultType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/MessaggioSIIFaultType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/MessaggioSIIType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/MessaggioSIIType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/NotificaAperturaPraticaCertificazione2GDDAzioneRichiestaType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/NotificaAperturaPraticaCertificazione2GDDAzioneRichiestaType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/NotificaAperturaPraticaCertificazione2GDDDatiSIIType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/NotificaAperturaPraticaCertificazione2GDDDatiSIIType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/NotificaAperturaPraticaCertificazione2GDDMessaggioSIIType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/NotificaAperturaPraticaCertificazione2GDDMessaggioSIIType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/NotificaAperturaPraticaCertificazione2GDDRichiestaSIIType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/NotificaAperturaPraticaCertificazione2GDDRichiestaSIIType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/NotificaCertificazioneFlussiMisure2GDDAzioneRichiestaType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/NotificaCertificazioneFlussiMisure2GDDAzioneRichiestaType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/NotificaCertificazioneFlussiMisure2GDDDatiSIIType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/NotificaCertificazioneFlussiMisure2GDDDatiSIIType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/NotificaCertificazioneFlussiMisure2GDDMessaggioSIIType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/NotificaCertificazioneFlussiMisure2GDDMessaggioSIIType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/NotificaCertificazioneFlussiMisure2GDDRichiestaSIIType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/NotificaCertificazioneFlussiMisure2GDDRichiestaSIIType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/ObjectFactory.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/ObjectFactory.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/ReferenteClienteFinaleBaseType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/ReferenteClienteFinaleBaseType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/RichiestaSIIType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/RichiestaSIIType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/SettoreType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/SettoreType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/TipoVariazioneAddDelType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/TipoVariazioneAddDelType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/TipoVariazioneNCType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/TipoVariazioneNCType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/TipologiaRisoluzioneEnumType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/TipologiaRisoluzioneEnumType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/package-info.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/src/main/java/soap/package-info.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ExampleEE.iml" afterPath="$PROJECT_DIR$/ExampleEE.iml" />
       <change beforePath="$PROJECT_DIR$/Logica/target/Logica-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/Logica/target/Logica-1.0-SNAPSHOT.jar" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/AgevolazioniFiscaliBaseType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/AgevolazioniFiscaliType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/AllegatiType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/AllegatoType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/AmmissibilitaBaseType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/AnagraficaClienteFinaleBaseType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/AnagraficaClienteFinaleConDenomTelType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/AnagraficaClienteFinaleConDenomType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/AnagraficaClienteFinaleConRagSocType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/AnagraficaClienteFinaleSoloDenomTelType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/AnagraficaClienteFinaleSoloDenomType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/AnagraficaReferenteClienteFinaleBaseType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/AnagraficaReferenteClienteFinaleType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/AnnullamentoDatiPraticaBaseType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/AnnullamentoDatiPraticaType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/AutocertificazioniBaseType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/AutoletturaType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/AzioneRichiestaType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/BeneficiarioType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/CM1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/CM1Impl.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/CM1Service.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/ClienteFinaleAnagraficaIndirizziEx1Type.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/ClienteFinaleBaseType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/ClienteFinaleCompletoObbType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/ClienteFinaleCompletoType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/ClienteFinaleConDenomEIndirizziObbTelType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/ClienteFinaleConDenomEIndirizziObbType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/ClienteFinaleConDenomEIndirizziTelType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/ClienteFinaleConDenomEIndirizziType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/ClienteFinaleConDenomIndirizziObbTelTributiType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/ClienteFinaleConDenomIndirizziTelTributiOpzType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/ClienteFinaleConDenomIndirizziTelTributiType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/ClienteFinaleConDenomIndirizziTributiType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/ClienteFinaleConDenomTelType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/ClienteFinaleConDenomType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/ClienteFinaleFornituraType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/ClienteFinaleSoloDenomTelType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/ClienteFinaleSoloDenomType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/ClienteFinaleTributiType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/DataRiferimentoCertificazioneType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/DatiAnnullamentoPraticaType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/DatiAttivazioneBaseType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/DatiAttivazioneBaseUtenteType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/DatiCommercialiType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/DatiFileBaseType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/DatiPraticaType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/DatiResidenzaBaseType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/DatiRichiestaBaseType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/DatiRisoluzioneContrattualeBaseType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/DatiRisoluzioneContrattualeTipologiaType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/DatiTecniciBaseEl.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/DatiTecniciBaseGas.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/DatiTecniciBaseType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/DatiTecniciMinimaliType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/DatiTipoFileBaseType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/DatiTipoFileRespBaseType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/DatiTrasmissionePortaleBaseType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/DatiWorkflowType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/DefaultEsitoType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/EsitoBaseType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/EsitoFileBaseType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/FileDisponibileType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/FlussoCM10200Type.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/FlussoCM10201Type.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/FlussoTypeAbstract.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IdentificativiRichiestaDistributoreCPGestoreCPOpzType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IdentificativiRichiestaDistributoreCPGestoreCPType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IdentificativiRichiestaDistributoreCPGestoreType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IdentificativiRichiestaDistributoreCPOpzGestoreCPOpzType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IdentificativiRichiestaDistributoreCPOpzGestoreCPType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IdentificativiRichiestaDistributoreGestoreBaseType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IdentificativiRichiestaDistributoreGestoreCPOpzType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IdentificativiRichiestaDistributoreGestoreCPType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IdentificativiRichiestaGestoreCPDistributoreCPOpzType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IdentificativiRichiestaGestoreCPDistributoreCPType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IdentificativiRichiestaGestoreCPDistributoreType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IdentificativiRichiestaGestoreCPOpzDistributoreCPOpzType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IdentificativiRichiestaGestoreCPOpzDistributoreCPType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IdentificativiRichiestaGestoreCPOpzUtenteCPOpzType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IdentificativiRichiestaGestoreCPOpzUtenteCPType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IdentificativiRichiestaGestoreCPOpzVenditoreCPOpzType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IdentificativiRichiestaGestoreCPOpzVenditoreCPType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IdentificativiRichiestaGestoreCPUtenteCPOpzType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IdentificativiRichiestaGestoreCPUtenteCPType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IdentificativiRichiestaGestoreCPUtenteType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IdentificativiRichiestaGestoreCPVenditoreCPOpzType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IdentificativiRichiestaGestoreCPVenditoreCPType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IdentificativiRichiestaGestoreCPVenditoreType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IdentificativiRichiestaGestoreDistributoreBaseType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IdentificativiRichiestaGestoreDistributoreCPType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IdentificativiRichiestaGestoreUtenteBaseType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IdentificativiRichiestaGestoreUtenteCPType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IdentificativiRichiestaGestoreVenditoreBaseType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IdentificativiRichiestaGestoreVenditoreCPType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IdentificativiRichiestaRespBilGestoreBaseType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IdentificativiRichiestaRespBilGestoreCPBaseType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IdentificativiRichiestaUtenteCPGestoreCPOpzType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IdentificativiRichiestaUtenteCPGestoreCPType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IdentificativiRichiestaUtenteCPGestoreType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IdentificativiRichiestaUtenteCPOpzGestoreCPOpzType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IdentificativiRichiestaUtenteCPOpzGestoreCPType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IdentificativiRichiestaUtenteGestoreBaseType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IdentificativiRichiestaUtenteGestoreCPType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IdentificativiRichiestaVenditoreCPGestoreCPOpzType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IdentificativiRichiestaVenditoreCPGestoreCPType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IdentificativiRichiestaVenditoreCPGestoreType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IdentificativiRichiestaVenditoreCPOpzGestoreCPOpzType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IdentificativiRichiestaVenditoreCPOpzGestoreCPType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IdentificativiRichiestaVenditoreGestoreBaseType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IdentificativiRichiestaVenditoreGestoreCPType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IndirizzoType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/InformazioneTributiType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/InformazioniFuiType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/IvaImposteType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/MercatoEnumType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/MessaggioSIIFaultBodyType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/MessaggioSIIFaultType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/MessaggioSIIType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/NotificaAperturaPraticaCertificazione2GDDAzioneRichiestaType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/NotificaAperturaPraticaCertificazione2GDDDatiSIIType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/NotificaAperturaPraticaCertificazione2GDDMessaggioSIIType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/NotificaAperturaPraticaCertificazione2GDDRichiestaSIIType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/NotificaCertificazioneFlussiMisure2GDDAzioneRichiestaType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/NotificaCertificazioneFlussiMisure2GDDDatiSIIType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/NotificaCertificazioneFlussiMisure2GDDMessaggioSIIType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/NotificaCertificazioneFlussiMisure2GDDRichiestaSIIType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/ObjectFactory.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/ReferenteClienteFinaleBaseType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/RichiestaSIIType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/SettoreType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/TipoVariazioneAddDelType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/TipoVariazioneNCType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/TipologiaRisoluzioneEnumType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/classes/soap/package-info.class" afterPath="" />
       <change beforePath="$PROJECT_DIR$/Logica/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/Logica/target/maven-archiver/pom.properties" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/Logica/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
       <change beforePath="$PROJECT_DIR$/Logica/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/Logica/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change beforePath="$PROJECT_DIR$/WebApi/WebApi.iml" afterPath="$PROJECT_DIR$/WebApi/WebApi.iml" />
-      <change beforePath="$PROJECT_DIR$/WebApi/src/main/webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/WebApi/src/main/webapp/WEB-INF/web.xml" />
-      <change beforePath="$PROJECT_DIR$/WebApi/src/main/webapp/schemas/CM1.xsd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/WebApi/src/main/webapp/schemas/CM1_msgSII.xsd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/WebApi/src/main/webapp/schemas/CM3.xsd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/WebApi/src/main/webapp/schemas/CM3_msgSII.xsd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/WebApi/src/main/webapp/schemas/SII_PdC-MessaggioSII.xsd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/WebApi/src/main/webapp/schemas/SchemaEsterno-SwaRef.xsd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/WebApi/src/main/webapp/schemas/StruttureEl_v1_4.xsd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/WebApi/src/main/webapp/schemas/StruttureGenerali_v1_6.xsd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/WebApi/src/main/webapp/wsdl/CM1.wsdl" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/WebApi/src/main/webapp/wsdl/CM3.wsdl" afterPath="" />
       <change beforePath="$PROJECT_DIR$/WebApi/target/WebApi.war" afterPath="$PROJECT_DIR$/WebApi/target/WebApi.war" />
       <change beforePath="$PROJECT_DIR$/WebApi/target/WebApi/WEB-INF/lib/Logica-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/WebApi/target/WebApi/WEB-INF/lib/Logica-1.0-SNAPSHOT.jar" />
-      <change beforePath="$PROJECT_DIR$/WebApi/target/WebApi/WEB-INF/lib/annotations-java5-16.0.1.jar" afterPath="" />
       <change beforePath="$PROJECT_DIR$/WebApi/target/WebApi/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/WebApi/target/WebApi/WEB-INF/web.xml" />
-      <change beforePath="$PROJECT_DIR$/WebApi/target/WebApi/schemas/CM1.xsd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/WebApi/target/WebApi/schemas/CM1_msgSII.xsd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/WebApi/target/WebApi/schemas/CM3.xsd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/WebApi/target/WebApi/schemas/CM3_msgSII.xsd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/WebApi/target/WebApi/schemas/SII_PdC-MessaggioSII.xsd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/WebApi/target/WebApi/schemas/SchemaEsterno-SwaRef.xsd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/WebApi/target/WebApi/schemas/StruttureEl_v1_4.xsd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/WebApi/target/WebApi/schemas/StruttureGenerali_v1_6.xsd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/WebApi/target/WebApi/wsdl/CM1.wsdl" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/WebApi/target/WebApi/wsdl/CM3.wsdl" afterPath="" />
       <change beforePath="$PROJECT_DIR$/WebApi/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/WebApi/target/maven-archiver/pom.properties" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -462,7 +31,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Logica/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
+            <state relative-caret-position="903">
               <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
               <folding />
             </state>
@@ -472,8 +41,8 @@
       <file leaf-file-name="web.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/WebApi/src/main/webapp/WEB-INF/web.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="483">
-              <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+            <state relative-caret-position="315">
+              <caret line="15" column="20" lean-forward="false" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -583,7 +152,7 @@
     <option name="jreName" value="1.7" />
     <option name="vmOptions" value="-XX:MaxPermSize=128M -XX:+TieredCompilation -XX:TieredStopAtLevel=1" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-9" />
     <option name="y" value="-9" />
     <option name="width" value="1938" />
@@ -608,37 +177,34 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="ExampleEE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ExampleEE" type="462c0819:PsiDirectoryNode" />
+              <item name="exampleEE" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ExampleEE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ExampleEE" type="462c0819:PsiDirectoryNode" />
+              <item name="exampleEE" type="462c0819:PsiDirectoryNode" />
               <item name="Logica" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ExampleEE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ExampleEE" type="462c0819:PsiDirectoryNode" />
+              <item name="exampleEE" type="462c0819:PsiDirectoryNode" />
               <item name="Logica" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ExampleEE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ExampleEE" type="462c0819:PsiDirectoryNode" />
+              <item name="exampleEE" type="462c0819:PsiDirectoryNode" />
               <item name="Logica" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ExampleEE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ExampleEE" type="462c0819:PsiDirectoryNode" />
+              <item name="exampleEE" type="462c0819:PsiDirectoryNode" />
               <item name="Logica" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
@@ -646,43 +212,29 @@
             </path>
             <path>
               <item name="ExampleEE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ExampleEE" type="462c0819:PsiDirectoryNode" />
+              <item name="exampleEE" type="462c0819:PsiDirectoryNode" />
               <item name="WebApi" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ExampleEE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ExampleEE" type="462c0819:PsiDirectoryNode" />
-              <item name="WebApi" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ExampleEE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ExampleEE" type="462c0819:PsiDirectoryNode" />
+              <item name="exampleEE" type="462c0819:PsiDirectoryNode" />
               <item name="WebApi" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ExampleEE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ExampleEE" type="462c0819:PsiDirectoryNode" />
+              <item name="exampleEE" type="462c0819:PsiDirectoryNode" />
               <item name="WebApi" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ExampleEE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ExampleEE" type="462c0819:PsiDirectoryNode" />
-              <item name="WebApi" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -851,7 +403,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1060" extended-state="7" />
+    <frame x="-9" y="-9" width="1938" height="1060" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -862,11 +414,10 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296875" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295838" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33295837" sideWeight="0.49785176" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35095614" sideWeight="0.49785176" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35095614" sideWeight="0.49785176" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2669173" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295838" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2706767" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -879,6 +430,7 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="combo" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293348" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295838" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -900,9 +452,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2331">
           <caret line="117" column="31" lean-forward="false" selection-start-line="117" selection-start-column="31" selection-end-line="117" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -931,7 +480,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2331">
           <caret line="111" column="30" lean-forward="false" selection-start-line="111" selection-start-column="30" selection-end-line="111" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -961,9 +509,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2457">
           <caret line="117" column="31" lean-forward="true" selection-start-line="117" selection-start-column="31" selection-end-line="117" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1033,7 +578,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="789">
           <caret line="59" column="9" lean-forward="false" selection-start-line="59" selection-start-column="9" selection-end-line="59" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1056,9 +600,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="789">
           <caret line="282" column="32" lean-forward="false" selection-start-line="282" selection-start-column="32" selection-end-line="282" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1088,26 +629,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="483">
           <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WebApi/src/main/webapp/wsdl/CM1.wsdl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" column="29" lean-forward="false" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebApi/src/main/webapp/wsdl/CM3.wsdl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/WebApi/src/main/webapp/wsdl/CM1.wsdl" />
+    <entry file="file://$PROJECT_DIR$/WebApi/src/main/webapp/wsdl/CM3.wsdl" />
     <entry file="file://$PROJECT_DIR$/Logica/src/main/java/soap/it/acquirenteunico/sii/cm1/CM1Service.class" />
     <entry file="file://$PROJECT_DIR$/Logica/src/main/java/soap/it/acquirenteunico/sii/cm1/CM1.class" />
     <entry file="file://$PROJECT_DIR$/Logica/src/main/java/soap/it/acquirenteunico/sii/cm1/CM1.java" />
@@ -1115,26 +641,12 @@
     <entry file="file://$PROJECT_DIR$/WebApi/src/main/webapp/soap/it/acquirenteunico/sii/cm1/CM1Impl.kt" />
     <entry file="file://$PROJECT_DIR$/Logica/src/main/java/soap/it/acquirenteunico/schemas/sii_au/strutturegenerali/v1/FlussoTypeAbstract.java" />
     <entry file="file://$PROJECT_DIR$/Logica/src/main/java/soap/it/acquirenteunico/sii/cm1/CM1Impl.java" />
-    <entry file="file://$PROJECT_DIR$/WebApi/src/main/webapp/schemas/CM1.xsd">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="609">
-          <caret line="44" column="4" lean-forward="false" selection-start-line="44" selection-start-column="4" selection-end-line="44" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Logica/src/main/java/soap/CM1Impl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="31" lean-forward="false" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/WebApi/src/main/webapp/schemas/CM1.xsd" />
+    <entry file="file://$PROJECT_DIR$/Logica/src/main/java/soap/CM1Impl.java" />
     <entry file="file://$PROJECT_DIR$/Logica/src/main/java/controllers/MyController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1156,7 +668,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Logica/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
+        <state relative-caret-position="903">
           <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
           <folding />
         </state>
@@ -1164,8 +676,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/WebApi/src/main/webapp/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        <state relative-caret-position="315">
+          <caret line="15" column="20" lean-forward="false" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
           <folding />
         </state>
       </provider>
