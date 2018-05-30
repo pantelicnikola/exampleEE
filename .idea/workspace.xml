@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d8fd079f-3f2b-4121-b463-512d7d88cf94" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/ExampleEE.iml" afterPath="$PROJECT_DIR$/ExampleEE.iml" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/Logica-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/Logica/target/Logica-1.0-SNAPSHOT.jar" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/Logica/target/maven-archiver/pom.properties" />
-      <change beforePath="$PROJECT_DIR$/Logica/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/Logica/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change beforePath="$PROJECT_DIR$/WebApi/target/WebApi.war" afterPath="$PROJECT_DIR$/WebApi/target/WebApi.war" />
-      <change beforePath="$PROJECT_DIR$/WebApi/target/WebApi/WEB-INF/lib/Logica-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/WebApi/target/WebApi/WEB-INF/lib/Logica-1.0-SNAPSHOT.jar" />
-      <change beforePath="$PROJECT_DIR$/WebApi/target/WebApi/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/WebApi/target/WebApi/WEB-INF/web.xml" />
-      <change beforePath="$PROJECT_DIR$/WebApi/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/WebApi/target/maven-archiver/pom.properties" />
-    </list>
+    <list default="true" id="d8fd079f-3f2b-4121-b463-512d7d88cf94" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/BussinessLogic/target/" />
