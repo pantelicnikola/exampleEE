@@ -42,7 +42,8 @@ Thumbs.db
 *.jar
 *.war
 *.ear
-.idea\*
+.idea
+.idea/*
 
 # Chuck things #
 ################
